@@ -25,23 +25,24 @@ input::-webkit-inner-spin-button {
 }
 
 input#inicio{
-    position: absolute;
-    top: 120px;
-    left: 120px
+    position: relative;
+    top: 0px;
+    left: 15px
 } 
 
 input#fim{
-    position: absolute;
-    top: 159px;
-    left: 120px
+    position: relative;
+    top: 0px;
+    left: 27px
     
 } 
 
 input#passo{
-    position: absolute;
-    top: 198px;
-    left: 120px
+    position: relative;
+    top: 0px;
+    left: 7px
 } 
+
 
 input.caixa:focus{
     width: 20%;
